@@ -1,0 +1,1714 @@
+{
+  "playlists": [
+    {
+      "name": "My top tracks playlist",
+      "lastModifiedDate": "2025-11-18",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "Consume (feat. Goon Des Garcons)",
+            "artistName": "Chase Atlantic",
+            "albumName": "Chase Atlantic",
+            "trackUri": "spotify:track:0X2bh8NVQ8svDQIn2AdCbW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-11-18"
+        },
+        {
+          "track": {
+            "trackName": "The Knife In My Back",
+            "artistName": "Alec Benjamin",
+            "albumName": "The Knife In My Back",
+            "trackUri": "spotify:track:52hW86OGxT6nn0Aex2V6oM"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-11-18"
+        },
+        {
+          "track": {
+            "trackName": "SUICIDE FERRIS WHEEL",
+            "artistName": "Løvesick",
+            "albumName": "SUICIDE FERRIS WHEEL",
+            "trackUri": "spotify:track:5jj59rLl7K5UOWnDz8x0A3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-11-18"
+        },
+        {
+          "track": {
+            "trackName": "Friendly Neighborhood Poltergeist",
+            "artistName": "Rory Webley",
+            "albumName": "Are You Scared Yet?",
+            "trackUri": "spotify:track:1ar6wTpooDS4vTlWg7YkN2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-11-18"
+        },
+        {
+          "track": {
+            "trackName": "I'm The Boogeyman",
+            "artistName": "Rory Webley",
+            "albumName": "Are You Scared Yet?",
+            "trackUri": "spotify:track:3EeEiucil4U4aB9mFn1JLs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-11-18"
+        }
+      ],
+      "description": "Playlist created by the tutorial on developer.spotify.com",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Hoodie",
+      "lastModifiedDate": "2025-11-14",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "Hoodie",
+            "artistName": "Hey Violet",
+            "albumName": "From The Outside",
+            "trackUri": "spotify:track:410smJMzhna1ADC2ldqVHu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-09-24"
+        },
+        {
+          "track": {
+            "trackName": "Magnetic",
+            "artistName": "ILLIT",
+            "albumName": "SUPER REAL ME",
+            "trackUri": "spotify:track:1aKvZDoLGkNMxoRYgkckZG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-11-07"
+        },
+        {
+          "track": {
+            "trackName": "Falling Faster",
+            "artistName": "Dylan Espeseth",
+            "albumName": "Falling Faster",
+            "trackUri": "spotify:track:06cH1T3AgKToaj8F3kOLa2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-11-14"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "10 shots of nyquil",
+      "lastModifiedDate": "2025-06-04",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "10 shots of nyquil",
+            "artistName": "dalynn",
+            "albumName": "quietly",
+            "trackUri": "spotify:track:2yS6ZqB4yNEzcnlZDuef9o"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-06-04"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "My Playlist #12",
+      "lastModifiedDate": "2025-04-16",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "snakelike (the stars collide)",
+            "artistName": "whatsaheart",
+            "albumName": "snakelike (the stars collide)",
+            "trackUri": "spotify:track:6CTdEvRD18xnL8qIumOaSU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "SIREN",
+            "artistName": "Lilyisthatyou",
+            "albumName": "POP MUSIC",
+            "trackUri": "spotify:track:2SRHNn97rMNVYdtmH1gmd5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Daisy 2.0 (feat. Hatsune Miku)",
+            "artistName": "Ashnikko",
+            "albumName": "Daisy 2.0 (feat. Hatsune Miku)",
+            "trackUri": "spotify:track:0s8RXkQW9lwGEV6WlG8KDq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "WHAT YOU WANT!",
+            "artistName": "asteria",
+            "albumName": "WHAT YOU WANT!",
+            "trackUri": "spotify:track:2efqgrEC6lsx3KTy1yhllR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Gross",
+            "artistName": "Penelope Scott",
+            "albumName": "Gross",
+            "trackUri": "spotify:track:1K6yGOXWPXOXrWX57pksPP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "i'll make sure u miss me",
+            "artistName": "Vorsa",
+            "albumName": "i'll make sure u miss me",
+            "trackUri": "spotify:track:5xp21Nj2s4UFqr4B7ttcOv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "ARE WE HAVING FUN YET?",
+            "artistName": "Negative 25",
+            "albumName": "XOXON25",
+            "trackUri": "spotify:track:6Y01ILt5AB7QVPcCygEkK6"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "RAGE!",
+            "artistName": "Scottie Da Ghost",
+            "albumName": "RAGE!",
+            "trackUri": "spotify:track:42zB9lJUAydokbQNgqRC8Y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Bathroom Floor",
+            "artistName": "Sophie Powers",
+            "albumName": "Bathroom Floor",
+            "trackUri": "spotify:track:1m7lgJNH3l3vOm6DVs5QpZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Blow My Brains Out",
+            "artistName": "Tikkle Me",
+            "albumName": "Tikkle Me",
+            "trackUri": "spotify:track:4ZlQzskKkK4jsbcqO96luB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "d e a d",
+            "artistName": "Madelline",
+            "albumName": "d e a d",
+            "trackUri": "spotify:track:0xijNH95NSYJAnHkjTp8t9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Falling Slowly",
+            "artistName": "NOIRION",
+            "albumName": "Falling Slowly",
+            "trackUri": "spotify:track:0RMjpbJ91eUZQs742GLTpr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "RUN! (feat. Lay Bankz)",
+            "artistName": "VALORANT",
+            "albumName": "VALORANT Sounds Vol. 1",
+            "trackUri": "spotify:track:1ZNrPyeyKs8YleAwY4vpKj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Deal With It (feat. Kelis)",
+            "artistName": "Ashnikko",
+            "albumName": "DEMIDEVIL",
+            "trackUri": "spotify:track:1S85LGnDPKKOkfuFaK6vFu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "TELL ME LIES (w/ Odetari)",
+            "artistName": "asteria",
+            "albumName": "TELL ME LIES (w/ Odetari)",
+            "trackUri": "spotify:track:12Lbz6z4cu9HlltYVqwcPR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "7 O'Clock",
+            "artistName": "Penelope Scott",
+            "albumName": "7 O'Clock",
+            "trackUri": "spotify:track:2Eh6bvihTFDwAjHBEYnbgH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "VIOLENCE",
+            "artistName": "Vorsa",
+            "albumName": "I N V I S I B L E",
+            "trackUri": "spotify:track:7edzQDnfBkisCnVVGzZAcQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "FUCKBOY",
+            "artistName": "REVENGEOFPARIS",
+            "albumName": "FUCKBOY",
+            "trackUri": "spotify:track:42KLZ0UL5ceROPXFeqfsht"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "jeLLiefish aPocaLypsE",
+            "artistName": "tiLLie",
+            "albumName": "jeLLiefish aPocaLypsE",
+            "trackUri": "spotify:track:5R8UCyOosnFz00nwrY5v38"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Killem",
+            "artistName": "Witchz",
+            "albumName": "Killem",
+            "trackUri": "spotify:track:4HCMZSLaCLkYXlzrskATmL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "U Love It",
+            "artistName": "Sophie Powers",
+            "albumName": "U Love It",
+            "trackUri": "spotify:track:4tvVKTTnvDal5mUhf80RJC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "I may be a doe...",
+            "artistName": "Banshee",
+            "albumName": "FABLES",
+            "trackUri": "spotify:track:5r46nhrH48EjJ6SCCbHtJb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "FUCKBOI REJECTS",
+            "artistName": "Royal & the Serpent",
+            "albumName": "IF I DIED WOULD ANYONE CARE",
+            "trackUri": "spotify:track:580TkL4a8bKLgVbsiSoEFQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Crazy Bitch",
+            "artistName": "Madelline",
+            "albumName": "Crazy Bitch",
+            "trackUri": "spotify:track:1ALb2cQBsy82S5kmBVkpxD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Hi, It's Me",
+            "artistName": "Ashnikko",
+            "albumName": "Hi, It's Me",
+            "trackUri": "spotify:track:2QClD0hEJbn3BmqUtwzuWs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Nightterrors",
+            "artistName": "Baby Jane",
+            "albumName": "Nightterrors",
+            "trackUri": "spotify:track:0dN755pjw2wZI36Qj9bxZR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "PLAYBOi",
+            "artistName": "Vana",
+            "albumName": "PLAYBOi",
+            "trackUri": "spotify:track:67hUUu8V72iqADfmWrXC2w"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "GOOD LOYAL THOTS",
+            "artistName": "Odetari",
+            "albumName": "GOOD LOYAL THOTS",
+            "trackUri": "spotify:track:06tNJ27nVxbDwhiQMChWyr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Electrical",
+            "artistName": "Bali Baby",
+            "albumName": "Baylor Swift",
+            "trackUri": "spotify:track:58nSc49D656Rq4dEqFYkMm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Peachie",
+            "artistName": "tiLLie",
+            "albumName": "Peachie",
+            "trackUri": "spotify:track:09VXh4U994ySg6HjPijZIv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "masquerade II (dante’s inferno)",
+            "artistName": "siouxxie sixxsta",
+            "albumName": "masquerade II (dante’s inferno)",
+            "trackUri": "spotify:track:7G7jd3o9p7KH9jMRhefwiQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Saccharine",
+            "artistName": "Jazmin Bean",
+            "albumName": "Worldwide Torture",
+            "trackUri": "spotify:track:0xLCawHAfE3tqlPWRvhT49"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Killbot!",
+            "artistName": "chloe moriondo",
+            "albumName": "Killbot!",
+            "trackUri": "spotify:track:7o32dXbXYefjuX43D5MJa0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "LASER.FULLY.CHARGED",
+            "artistName": "Changeline",
+            "albumName": "LASER.FULLY.CHARGED",
+            "trackUri": "spotify:track:7MejYhotwKGFIjEDYZdrKZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Cry (feat. Grimes)",
+            "artistName": "Ashnikko",
+            "albumName": "DEMIDEVIL",
+            "trackUri": "spotify:track:1jR9XTpUeT6a82Yz4GNCCo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "What Do They Know?",
+            "artistName": "Mindless Self Indulgence",
+            "albumName": "You'll Rebel to Anything (Expanded and Remastered 2008)",
+            "trackUri": "spotify:track:5abubE0dYFaEPDeM2sZ4TY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "help_urself",
+            "artistName": "Ezekiel",
+            "albumName": "Ezekiel Singles ’18-‘20",
+            "trackUri": "spotify:track:6bxKECVRnkLmtpeU22Ve9p"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "I'm So Hot",
+            "artistName": "Chrissy Chlapecka",
+            "albumName": "I'm So Hot",
+            "trackUri": "spotify:track:3mArEKefF5c1uEoxqCWWSX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Crazy Girls",
+            "artistName": "TOOPOOR",
+            "albumName": "Crazy Girls",
+            "trackUri": "spotify:track:6cSDNYoWlMxzVfJLn6H301"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "All The Things She Said",
+            "artistName": "Poppy",
+            "albumName": "All The Things She Said",
+            "trackUri": "spotify:track:0wH55ChKuoZkmGhbIYtOI4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "GRINDING MY TEETH",
+            "artistName": "Lilyisthatyou",
+            "albumName": "POP MUSIC",
+            "trackUri": "spotify:track:5mJzj4pBbmQbUVyxyEdBD3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Final Girl",
+            "artistName": "Graveyardguy",
+            "albumName": "Here Lies Graveyardguy",
+            "trackUri": "spotify:track:4XHaieEyVvoz7SVpkjv7dd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Hotel for Clowns",
+            "artistName": "chloe moriondo",
+            "albumName": "SUCKERPUNCH",
+            "trackUri": "spotify:track:59XeSwzESC4bK21GHS1BWF"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Better On Mute",
+            "artistName": "Sophie Powers",
+            "albumName": "Better On Mute",
+            "trackUri": "spotify:track:4PUoS8YRJCKdG76cYjbdpL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "JUST.SOME.FROGS",
+            "artistName": "Changeline",
+            "albumName": "JUST.SOME.FROGS",
+            "trackUri": "spotify:track:6lr9E4unHRFJMqx2mA7CpR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Itty Bitty",
+            "artistName": "Ashnikko",
+            "albumName": "Itty Bitty",
+            "trackUri": "spotify:track:6TxJ6ocfLpkKkY8152ttpM"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "Anastasia",
+            "artistName": "Sueco",
+            "albumName": "Attempted Lover",
+            "trackUri": "spotify:track:76mRfgEmiy2dV82FarEU1l"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "IN MY MOUTH",
+            "artistName": "Black Dresses",
+            "albumName": "WASTEISOLATION",
+            "trackUri": "spotify:track:51fuLpPnBX5pzizp3PkODO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        },
+        {
+          "track": {
+            "trackName": "insomnia",
+            "artistName": "juno",
+            "albumName": "insomnia",
+            "trackUri": "spotify:track:7oy5KOM3ylzXKmcLN4XOQZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-14"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "I wish I could say your mine",
+      "lastModifiedDate": "2025-03-20",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "Attention",
+            "artistName": "Kevian Kraemer",
+            "albumName": "Dopamine",
+            "trackUri": "spotify:track:0MF0uNkFbUELEqdoO41bS1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-10-07"
+        },
+        {
+          "track": {
+            "trackName": "her",
+            "artistName": "JVKE",
+            "albumName": "her",
+            "trackUri": "spotify:track:6G9YlbU3ByPJQvOFDRdwyM"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-10-07"
+        },
+        {
+          "track": {
+            "trackName": "Limb By Limb",
+            "artistName": "Kado",
+            "albumName": "Limb By Limb",
+            "trackUri": "spotify:track:1tmnSHVTQTgiBrN0U72nBH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-10-08"
+        },
+        {
+          "track": {
+            "trackName": "I'd Rather Pretend",
+            "artistName": "Bryant Barnes",
+            "albumName": "VANITY",
+            "trackUri": "spotify:track:4rJHH484bHZDts51o5i2CB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-10-15"
+        },
+        {
+          "track": {
+            "trackName": "Why Can't You Just Lie",
+            "artistName": "Kado",
+            "albumName": "Why Can't You Just Lie",
+            "trackUri": "spotify:track:01t9SAjaqOqz8GwPgYjtWC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-10-17"
+        },
+        {
+          "track": {
+            "trackName": "Like I Want You",
+            "artistName": "GIVĒON",
+            "albumName": "TAKE TIME",
+            "trackUri": "spotify:track:6qBFSepqLCuh5tehehc1bd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-10-18"
+        },
+        {
+          "track": {
+            "trackName": "Bad Choices",
+            "artistName": "Kode",
+            "albumName": "Bad Choices",
+            "trackUri": "spotify:track:2s09INiA8IH4v60hUT5amH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-16"
+        },
+        {
+          "track": {
+            "trackName": "Loafers",
+            "artistName": "BoyWithUke",
+            "albumName": "Faded",
+            "trackUri": "spotify:track:0jcPxc7Fme2oYb2MfFkOy6"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-21"
+        },
+        {
+          "track": {
+            "trackName": "next to you",
+            "artistName": "JVKE",
+            "albumName": "next to you",
+            "trackUri": "spotify:track:1GmZgx9giHMoqXqYBqbtw7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-26"
+        },
+        {
+          "track": {
+            "trackName": "I Wanna Be Yours",
+            "artistName": "Arctic Monkeys",
+            "albumName": "AM",
+            "trackUri": "spotify:track:5XeFesFbtLpXzIVDNQP22n"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-26"
+        },
+        {
+          "track": {
+            "trackName": "this is what losing someone feels like",
+            "artistName": "JVKE",
+            "albumName": "this is what losing someone feels like",
+            "trackUri": "spotify:track:38tKvVe3iURKRFm5X50zLZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-27"
+        },
+        {
+          "track": {
+            "trackName": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+            "artistName": "MAX",
+            "albumName": "LOVE IN STEREO",
+            "trackUri": "spotify:track:3W2kGv8CcwRl2MWQN5vxKL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "More Than a Friend",
+            "artistName": "girli",
+            "albumName": "More Than a Friend",
+            "trackUri": "spotify:track:5TIyFlLF0EfYOUZH1TYxBq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-02-02"
+        },
+        {
+          "track": {
+            "trackName": "My Love Mine All Mine",
+            "artistName": "Mitski",
+            "albumName": "The Land Is Inhospitable and So Are We",
+            "trackUri": "spotify:track:3vkCueOmm7xQDoJ17W1Pm3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-03-20"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "I’m fine",
+      "lastModifiedDate": "2025-08-30",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "CRY",
+            "artistName": "Parker Jack",
+            "albumName": "CRY",
+            "trackUri": "spotify:track:07xOTRcQijB89eBXDMTAoa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Gay Jokes",
+            "artistName": "Rio Romeo",
+            "albumName": "Obnoxious Liberal: The Musical",
+            "trackUri": "spotify:track:045rhjHkyibV0btWwKeGcA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Not Enough",
+            "artistName": "SadBoyProlific",
+            "albumName": "Not Enough",
+            "trackUri": "spotify:track:1KketREKMBMmRtIekYPlzg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Dollhouse",
+            "artistName": "Melanie Martinez",
+            "albumName": "Cry Baby",
+            "trackUri": "spotify:track:6wNeKPXF0RDKyvfKfri5hf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Toxic Thoughts",
+            "artistName": "Faith Marie",
+            "albumName": "Toxic Thoughts",
+            "trackUri": "spotify:track:5ZlShfBTtczvXB6ksyYOEE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Happy Face",
+            "artistName": "Jagwar Twin",
+            "albumName": "33",
+            "trackUri": "spotify:track:4ochm99Pc9wVHnHIY3cqxb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Where The Angels Are",
+            "artistName": "Kado",
+            "albumName": "Where The Angels Are",
+            "trackUri": "spotify:track:1GT7dPruiVYJ11zMaNPz0Q"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "alone",
+            "artistName": "Cavetown",
+            "albumName": "little vice",
+            "trackUri": "spotify:track:0610vGi3JMAOPgldBBq9XF"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "This Is Home",
+            "artistName": "Cavetown",
+            "albumName": "This Is Home",
+            "trackUri": "spotify:track:7s8VgA8OjvwBUuigKzEGBx"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Panic Room",
+            "artistName": "Au/Ra",
+            "albumName": "Panic Room",
+            "trackUri": "spotify:track:7uUahoeqGNRMbpdeiLj1rS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "it is what it is",
+            "artistName": "Abe Parker",
+            "albumName": "it is what it is",
+            "trackUri": "spotify:track:0DiwE0n9CdMBf8Ow3g5C2F"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Teen Idle",
+            "artistName": "MARINA",
+            "albumName": "Electra Heart",
+            "trackUri": "spotify:track:5B8N5rPOmTVVGpuBMK2Vby"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "My R",
+            "artistName": "Lollia",
+            "albumName": "THE COLLECTIVE",
+            "trackUri": "spotify:track:1fD154mTxJaX8ON82ddJog"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "Heroes",
+            "artistName": "emmy curie",
+            "albumName": "Heroes",
+            "trackUri": "spotify:track:4L0SjCacljkjNtmM9Hvo3Y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "everything sucks",
+            "artistName": "vaultboy",
+            "albumName": "everything sucks",
+            "trackUri": "spotify:track:3z06k8YF9CqX0CGFrlekOK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-05"
+        },
+        {
+          "track": {
+            "trackName": "I'll Bite Your Soul",
+            "artistName": "SHRK",
+            "albumName": "Lost in Love",
+            "trackUri": "spotify:track:71qKWIBggc7poNXclWN53M"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-11"
+        },
+        {
+          "track": {
+            "trackName": "If I Killed Someone For You",
+            "artistName": "Alec Benjamin",
+            "albumName": "Narrated For You",
+            "trackUri": "spotify:track:0WHi11uzahqpEtPGYCW6oQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-15"
+        },
+        {
+          "track": {
+            "trackName": "Boy In The Bubble",
+            "artistName": "Alec Benjamin",
+            "albumName": "Narrated For You",
+            "trackUri": "spotify:track:60cYr5uuMoxvyuIx45rGEW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-15"
+        },
+        {
+          "track": {
+            "trackName": "I Deserve to Bleed",
+            "artistName": "Sushi Soucy",
+            "albumName": "I Deserve to Bleed",
+            "trackUri": "spotify:track:2gnTpHUZZyUgdRn2IFJczm"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-15"
+        },
+        {
+          "track": {
+            "trackName": "Happy Pills",
+            "artistName": "Weathers",
+            "albumName": "Happy Pills",
+            "trackUri": "spotify:track:3zjjzKg16tczCMwckGKGuH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-15"
+        },
+        {
+          "track": {
+            "trackName": "LEMONS (with Cavetown)",
+            "artistName": "Brye",
+            "albumName": "LEMONS (with Cavetown)",
+            "trackUri": "spotify:track:7hRgBIc6DHSAup9lH11VNZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-15"
+        },
+        {
+          "track": {
+            "trackName": "Lost",
+            "artistName": "Chri$tian Gate$",
+            "albumName": "Lost",
+            "trackUri": "spotify:track:5fX1B90cPSFyyjORcHW8aC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-08-18"
+        },
+        {
+          "track": {
+            "trackName": "NOT THE SAME",
+            "artistName": "Parker Jack",
+            "albumName": "NOT THE SAME",
+            "trackUri": "spotify:track:6mEBD5cHp2EtpPzkFuxZ9V"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-10-11"
+        },
+        {
+          "track": {
+            "trackName": "mental health.",
+            "artistName": "tylerhateslife",
+            "albumName": "tylerhateslife",
+            "trackUri": "spotify:track:1wrWCi6F7S9ky8bvwgmCD8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-11-16"
+        },
+        {
+          "track": {
+            "trackName": "I Think I'm In Love",
+            "artistName": "Kat Dahlia",
+            "albumName": "My Garden",
+            "trackUri": "spotify:track:3U1TuSqHIubBA10cVP7Sk6"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-01-17"
+        },
+        {
+          "track": {
+            "trackName": "No Friends",
+            "artistName": "CADMIUM",
+            "albumName": "No Friends",
+            "trackUri": "spotify:track:4U7G8dgUodMEVSv96QRcDb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-01-22"
+        },
+        {
+          "track": {
+            "trackName": "In My Room",
+            "artistName": "Insane Clown Posse",
+            "albumName": "Hell's Pit",
+            "trackUri": "spotify:track:7jKHJoOij35nfpq6PYHlFH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-02-02"
+        },
+        {
+          "track": {
+            "trackName": "10 Things I Hate About You",
+            "artistName": "Leah Kate",
+            "albumName": "10 Things I Hate About You",
+            "trackUri": "spotify:track:6Jkm5kUldvIqxzI1Pa7nXH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-04-03"
+        },
+        {
+          "track": {
+            "trackName": "Broken",
+            "artistName": "Lund",
+            "albumName": "Broken",
+            "trackUri": "spotify:track:4W8sUeokQKfHt1uTXp0Jq0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2025-08-30"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Prettyboy!",
+      "lastModifiedDate": "2024-06-16",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "Prettyboy!",
+            "artistName": "Vana",
+            "albumName": "Prettyboy!",
+            "trackUri": "spotify:track:6YCzmsOf9A6NicyvAlsmmE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-06-16"
+        },
+        {
+          "track": {
+            "trackName": "Rule #34",
+            "artistName": "Fish in a Birdcage",
+            "albumName": "Rule #34",
+            "trackUri": "spotify:track:37BZW7WkMBkWyIVs5OMVJt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-06-16"
+        },
+        {
+          "track": {
+            "trackName": "BEG!",
+            "artistName": "Vana",
+            "albumName": "BEG!",
+            "trackUri": "spotify:track:0g9GhfqFotNeAt2TuggiEh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-06-16"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "The Kids Are All Rebels",
+      "lastModifiedDate": "2024-06-15",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "The Kids Are All Rebels",
+            "artistName": "Lenii",
+            "albumName": "The Kids Are All Rebels",
+            "trackUri": "spotify:track:5HlrYUxLWiitBhoepaKhdR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-06-15"
+        },
+        {
+          "track": {
+            "trackName": "DEATHWISH",
+            "artistName": "poutyface",
+            "albumName": "DEATHWISH",
+            "trackUri": "spotify:track:1QrIPQyOGl0wTilfU57weG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-06-15"
+        },
+        {
+          "track": {
+            "trackName": "Never Lose Me",
+            "artistName": "Flo Milli",
+            "albumName": "Fine Ho, Stay",
+            "trackUri": "spotify:track:2x2olWuWXpqjoeE4bO1NFS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-06-15"
+        },
+        {
+          "track": {
+            "trackName": "MILLION DOLLAR BABY (VHS)",
+            "artistName": "Tommy Richman",
+            "albumName": "MILLION DOLLAR BABY",
+            "trackUri": "spotify:track:3Sz8P5ZFLARe2oJeb0qsyb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-06-15"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "The Milk Carton",
+      "lastModifiedDate": "2024-05-23",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "The Milk Carton",
+            "artistName": "Madilyn Mei",
+            "albumName": "The Milk Carton",
+            "trackUri": "spotify:track:0uEeF2vQCTu4ucShvarTIH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-05-23"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Thing for Ya",
+      "lastModifiedDate": "2023-10-07",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "Thing for Ya",
+            "artistName": "Chri$tian Gate$",
+            "albumName": "Why Do I Hear Breathing?",
+            "trackUri": "spotify:track:53vqxI2N89pMUUmJMhxqrS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-04"
+        },
+        {
+          "track": {
+            "trackName": "Hard to move on",
+            "artistName": "BuzzCakes",
+            "albumName": "Wireless diary",
+            "trackUri": "spotify:track:177pnzkMvIRIlDjIewlgTO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-04"
+        },
+        {
+          "track": {
+            "trackName": "Self Sabotage",
+            "artistName": "Dylan Espeseth",
+            "albumName": "Self Sabotage",
+            "trackUri": "spotify:track:1k1TRwOCTbuAwsxOUqbgtY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-04"
+        },
+        {
+          "track": {
+            "trackName": "Midnight Thoughts",
+            "artistName": "SadBoyProlific",
+            "albumName": "Midnight Thoughts",
+            "trackUri": "spotify:track:1O28T70fY6eyL9vygOqCQi"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-04"
+        },
+        {
+          "track": {
+            "trackName": "Run out of Love",
+            "artistName": "Chri$tian Gate$",
+            "albumName": "Run out of Love",
+            "trackUri": "spotify:track:4IEuu9hpG5FqrAxiDai9mu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-04"
+        },
+        {
+          "track": {
+            "trackName": "Way Too Much",
+            "artistName": "Dylan Espeseth",
+            "albumName": "Way Too Much",
+            "trackUri": "spotify:track:2Ju9i4W4xPKnCB858WFiNh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-04"
+        },
+        {
+          "track": {
+            "trackName": "Bubble Gum",
+            "artistName": "Clairo",
+            "albumName": "Bubble Gum",
+            "trackUri": "spotify:track:3zksbXteOCeSusJ5Xltr3t"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-07"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "My playlist #5",
+      "lastModifiedDate": "2023-04-29",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "Blue Haired Boy",
+            "artistName": "Madilyn Mei",
+            "albumName": "Blue Haired Boy",
+            "trackUri": "spotify:track:74aKOiizkE9bZTTaRw1pfW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-29"
+        },
+        {
+          "track": {
+            "trackName": "ill come back to you (feat. Sarcastic Sounds & Rxseboy)",
+            "artistName": "Powfu",
+            "albumName": "poems of the past",
+            "trackUri": "spotify:track:1DoECePnMuLtpLQSCZqwtK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-29"
+        },
+        {
+          "track": {
+            "trackName": "snowy morning",
+            "artistName": "Snail's House",
+            "albumName": "Lumi",
+            "trackUri": "spotify:track:28wUa1WlpjVHiJUrPKdzPN"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-29"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Cannibal",
+      "lastModifiedDate": "2024-07-24",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "Cannibal",
+            "artistName": "Naethan Apollo",
+            "albumName": "Tales From Cazilor",
+            "trackUri": "spotify:track:5iFJDuf738NTLPx8N6ZUpA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-25"
+        },
+        {
+          "track": {
+            "trackName": "Hey Bunny",
+            "artistName": "Baby Bugs",
+            "albumName": "Hey Bunny",
+            "trackUri": "spotify:track:6dkPmbwmIHvDXVG67ADlOj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-25"
+        },
+        {
+          "track": {
+            "trackName": "ARE WE HAVING FUN YET?",
+            "artistName": "Negative 25",
+            "albumName": "ARE WE HAVING FUN YET?",
+            "trackUri": "spotify:track:0b3Ja5VkSZNRYoH6AygvSz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-28"
+        },
+        {
+          "track": {
+            "trackName": "Falling Faster",
+            "artistName": "Dylan Espeseth",
+            "albumName": "Falling Faster",
+            "trackUri": "spotify:track:08mpiFeuRWQeJsswcdSTDl"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-28"
+        },
+        {
+          "track": {
+            "trackName": "EVIL",
+            "artistName": "Melanie Martinez",
+            "albumName": "PORTALS",
+            "trackUri": "spotify:track:6UW10CbMTvqciT3X3Ldeox"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-06"
+        },
+        {
+          "track": {
+            "trackName": "DEATH",
+            "artistName": "Melanie Martinez",
+            "albumName": "PORTALS",
+            "trackUri": "spotify:track:4wFvGKW4jxTgIHLFoOtRMs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-11"
+        },
+        {
+          "track": {
+            "trackName": "The Villain",
+            "artistName": "John Michael Howell",
+            "albumName": "The Villain",
+            "trackUri": "spotify:track:6eYcm3UUVEaowkbS0CLTac"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-17"
+        },
+        {
+          "track": {
+            "trackName": "The Reaper, The Butcher, The Boy",
+            "artistName": "Kyle Stibbs",
+            "albumName": "The Reaper, The Butcher, The Boy",
+            "trackUri": "spotify:track:7CvTM8w5gTMcjiUlAGRtLG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-02-22"
+        },
+        {
+          "track": {
+            "trackName": "Lover (take me to the moon) - demo",
+            "artistName": "Madylin Gilbert",
+            "albumName": "Lover (take me to the moon) - demo",
+            "trackUri": "spotify:track:70gFbSkpt8Yj4DhToyXzpG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-07-24"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 1
+    },
+    {
+      "name": "When I Grow Up",
+      "lastModifiedDate": "2022-12-19",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "When I Grow Up",
+            "artistName": "NF",
+            "albumName": "The Search",
+            "trackUri": "spotify:track:5rLyYxZNzca00ENADO9m54"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2022-12-19"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "My Playlist #2",
+      "lastModifiedDate": "2022-11-14",
+      "collaborators": [
+      ],
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "うっせぇわ",
+      "lastModifiedDate": "2022-11-13",
+      "collaborators": [
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "うっせぇわ",
+            "artistName": "Ado",
+            "albumName": "狂言",
+            "trackUri": "spotify:track:5QS01sq07pThdktoNUxXRZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2022-11-13"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}

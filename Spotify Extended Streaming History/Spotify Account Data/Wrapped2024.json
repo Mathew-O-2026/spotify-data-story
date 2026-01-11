@@ -1,0 +1,133 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 2320,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:1MOetFIO4hBem9p9FVP9Jo"
+      },
+      {
+        "artistUri": "spotify:artist:0Repe2EiNjaFAFIukrroUM"
+      },
+      {
+        "artistUri": "spotify:artist:3hBvETCf1HBhhZSv9kc1Tb"
+      },
+      {
+        "artistUri": "spotify:artist:5yw4tA8D5uG7tT3NaDvq10"
+      },
+      {
+        "artistUri": "spotify:artist:5COD136qwj9wtuea78EGbF"
+      }
+    ],
+    "topArtistMilliseconds": 233598429,
+    "topArtistFanPercentage": 2.4606846E-4
+  },
+  "topPodcasts": {
+    "topPodcastsUri": [
+    ],
+    "topPodcastPercentage": 0.0,
+    "totalPodcastMilliseconds": 344522
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:07xOTRcQijB89eBXDMTAoa",
+      "spotify:track:33vX6P1fjP8zDCWqIUiReu",
+      "spotify:track:5FvE6L92NLw7qQcmtl6dPB",
+      "spotify:track:1KketREKMBMmRtIekYPlzg",
+      "spotify:track:37s8uwIjw72XfMseKJXNOO"
+    ],
+    "topTrackPlayCount": 222,
+    "topTrackFirstPlayedDate": "2024-07-30",
+    "distinctTracksPlayed": 4637
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 3966973691,
+    "mostListenedDay": "2024-08-04",
+    "mostListenedDayMinutes": 1023.0099,
+    "percentGreaterThanWorldwideUsers": 97.63593
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 4,
+        "color": "red-green",
+        "genre": "anime rap",
+        "mood": "cyberpunk",
+        "descriptor": "shonen",
+        "pivotalArtists": [
+          "spotify:artist:1MOetFIO4hBem9p9FVP9Jo",
+          "spotify:artist:3qpVZqXttPUYEmt53UYDGV",
+          "spotify:artist:6cd3XfCAc3e596RQW8P94H"
+        ],
+        "tracks": [
+          {
+            "trackName": "She Bad",
+            "trackUri": "spotify:track:0VjBlyHOKvMwbSdMmyiFEp"
+          },
+          {
+            "trackName": "Shush",
+            "trackUri": "spotify:track:1PMKEjHiuOFCBnfdxKWda6"
+          },
+          {
+            "trackName": "You Got Jokes",
+            "trackUri": "spotify:track:3eRqx4MkqnwokQoo1DH4DD"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 8,
+        "color": "red-green",
+        "genre": "anime",
+        "mood": "mangas",
+        "descriptor": "tavern",
+        "pivotalArtists": [
+          "spotify:artist:1KXJUpTiNeMv93LrJbbm7G",
+          "spotify:artist:1EowJ1WwkMzkCkRomFhui7",
+          "spotify:artist:3RN3VTAcHI62WWV3PlwlLK"
+        ],
+        "tracks": [
+          {
+            "trackName": "Suzume (feat. Toaka)",
+            "trackUri": "spotify:track:7LHAKF7pBqHch8o6Yo0ad5"
+          },
+          {
+            "trackName": "ちいさな冒険者",
+            "trackUri": "spotify:track:5k0e9dLEVA16OhtII626bM"
+          },
+          {
+            "trackName": "カワキヲアメク",
+            "trackUri": "spotify:track:3kUWZiVYJ4YQOl0u7Y1Og8"
+          }
+        ]
+      },
+      {
+        "key": "2",
+        "peakMonth": 10,
+        "color": "blue",
+        "genre": "emo rap",
+        "mood": "chill",
+        "descriptor": "ukulele",
+        "pivotalArtists": [
+          "spotify:artist:1Cd373x8qzC7SNUg5IToqp",
+          "spotify:artist:3hBvETCf1HBhhZSv9kc1Tb",
+          "spotify:artist:5COD136qwj9wtuea78EGbF"
+        ],
+        "tracks": [
+          {
+            "trackName": "CRY",
+            "trackUri": "spotify:track:07xOTRcQijB89eBXDMTAoa"
+          },
+          {
+            "trackName": "Not Enough",
+            "trackUri": "spotify:track:1KketREKMBMmRtIekYPlzg"
+          },
+          {
+            "trackName": "RIP",
+            "trackUri": "spotify:track:7dr33Czkqx7APfOHeZdxch"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "stats": [
+    {
+      "date": "2025-11-10",
+      "streamCount": 0,
+      "secondsPlayed": 0,
+      "topTracks": [
+        {
+          "name": "Home",
+          "streamCount": 25,
+          "secondsPlayed": 6639
+        },
+        {
+          "name": "Monsters At Your Door",
+          "streamCount": 16,
+          "secondsPlayed": 2575
+        },
+        {
+          "name": "Oh Raven (Sing Me A Happy Song)",
+          "streamCount": 15,
+          "secondsPlayed": 3900
+        },
+        {
+          "name": "Who Am I",
+          "streamCount": 14,
+          "secondsPlayed": 2317
+        },
+        {
+          "name": "Hey?",
+          "streamCount": 13,
+          "secondsPlayed": 2334
+        },
+        {
+          "name": "I Can't Carry This Anymore",
+          "streamCount": 9,
+          "secondsPlayed": 1691
+        },
+        {
+          "name": "Help",
+          "streamCount": 8,
+          "secondsPlayed": 1473
+        },
+        {
+          "name": "Empty",
+          "streamCount": 8,
+          "secondsPlayed": 1297
+        },
+        {
+          "name": "Worst Enemy",
+          "streamCount": 7,
+          "secondsPlayed": 759
+        },
+        {
+          "name": "Puppet",
+          "streamCount": 6,
+          "secondsPlayed": 804
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Cavetown",
+          "streamCount": 26,
+          "secondsPlayed": 6814
+        },
+        {
+          "name": "Chxrlotte",
+          "streamCount": 19,
+          "secondsPlayed": 3525
+        },
+        {
+          "name": "Besomorph",
+          "streamCount": 17,
+          "secondsPlayed": 2760
+        },
+        {
+          "name": "Unlike Pluto",
+          "streamCount": 16,
+          "secondsPlayed": 4102
+        },
+        {
+          "name": "Faith Marie",
+          "streamCount": 16,
+          "secondsPlayed": 3318
+        },
+        {
+          "name": "Jack Harris",
+          "streamCount": 16,
+          "secondsPlayed": 2575
+        },
+        {
+          "name": "Marino",
+          "streamCount": 14,
+          "secondsPlayed": 1483
+        },
+        {
+          "name": "Alec Benjamin",
+          "streamCount": 13,
+          "secondsPlayed": 2159
+        },
+        {
+          "name": "Anson Seabra",
+          "streamCount": 11,
+          "secondsPlayed": 2095
+        },
+        {
+          "name": "Anna Clendening",
+          "streamCount": 10,
+          "secondsPlayed": 1793
+        }
+      ],
+      "topGenres": [
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "streamCount": 0,
+      "secondsPlayed": 0,
+      "topTracks": [
+        {
+          "name": "Worst Enemy",
+          "streamCount": 7,
+          "secondsPlayed": 764
+        },
+        {
+          "name": "Two Birds",
+          "streamCount": 6,
+          "secondsPlayed": 1172
+        },
+        {
+          "name": "Love Music, Pt. 4",
+          "streamCount": 5,
+          "secondsPlayed": 1029
+        },
+        {
+          "name": "Hate Myself",
+          "streamCount": 5,
+          "secondsPlayed": 1300
+        },
+        {
+          "name": "Depression (Bonus Track)",
+          "streamCount": 5,
+          "secondsPlayed": 815
+        },
+        {
+          "name": "Violet's Tale",
+          "streamCount": 5,
+          "secondsPlayed": 1678
+        },
+        {
+          "name": "High School Sweethearts",
+          "streamCount": 5,
+          "secondsPlayed": 1234
+        },
+        {
+          "name": "This Side of Paradise",
+          "streamCount": 5,
+          "secondsPlayed": 1210
+        },
+        {
+          "name": "Devil Town",
+          "streamCount": 5,
+          "secondsPlayed": 896
+        },
+        {
+          "name": "this is what heartbreak feels like",
+          "streamCount": 5,
+          "secondsPlayed": 786
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Ren",
+          "streamCount": 83,
+          "secondsPlayed": 18064
+        },
+        {
+          "name": "Ellise",
+          "streamCount": 29,
+          "secondsPlayed": 4615
+        },
+        {
+          "name": "Khantrast",
+          "streamCount": 26,
+          "secondsPlayed": 6261
+        },
+        {
+          "name": "Marino",
+          "streamCount": 23,
+          "secondsPlayed": 2701
+        },
+        {
+          "name": "ILLIT",
+          "streamCount": 22,
+          "secondsPlayed": 3774
+        },
+        {
+          "name": "Alec Benjamin",
+          "streamCount": 18,
+          "secondsPlayed": 3197
+        },
+        {
+          "name": "Parker Jack",
+          "streamCount": 15,
+          "secondsPlayed": 2133
+        },
+        {
+          "name": "NF",
+          "streamCount": 14,
+          "secondsPlayed": 3573
+        },
+        {
+          "name": "Melanie Martinez",
+          "streamCount": 14,
+          "secondsPlayed": 3177
+        },
+        {
+          "name": "The Neighbourhood",
+          "streamCount": 12,
+          "secondsPlayed": 2601
+        }
+      ],
+      "topGenres": [
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "streamCount": 0,
+      "secondsPlayed": 0,
+      "topTracks": [
+        {
+          "name": "She Bad",
+          "streamCount": 13,
+          "secondsPlayed": 1267
+        },
+        {
+          "name": "I'm Toxic",
+          "streamCount": 11,
+          "secondsPlayed": 1309
+        },
+        {
+          "name": "Bunny Thot",
+          "streamCount": 9,
+          "secondsPlayed": 819
+        },
+        {
+          "name": "You Got Jokes",
+          "streamCount": 9,
+          "secondsPlayed": 1306
+        },
+        {
+          "name": "First Date",
+          "streamCount": 8,
+          "secondsPlayed": 986
+        },
+        {
+          "name": "Shush",
+          "streamCount": 6,
+          "secondsPlayed": 782
+        },
+        {
+          "name": "Big Stunna",
+          "streamCount": 6,
+          "secondsPlayed": 782
+        },
+        {
+          "name": "Worst Enemy",
+          "streamCount": 6,
+          "secondsPlayed": 657
+        },
+        {
+          "name": "Tokyo Stick Up",
+          "streamCount": 5,
+          "secondsPlayed": 1128
+        },
+        {
+          "name": "Genies in Bottles",
+          "streamCount": 5,
+          "secondsPlayed": 940
+        }
+      ],
+      "topArtists": [
+        {
+          "name": "Khantrast",
+          "streamCount": 167,
+          "secondsPlayed": 22263
+        },
+        {
+          "name": "Snail's House",
+          "streamCount": 33,
+          "secondsPlayed": 6917
+        },
+        {
+          "name": "Ren",
+          "streamCount": 15,
+          "secondsPlayed": 3177
+        },
+        {
+          "name": "Lund",
+          "streamCount": 13,
+          "secondsPlayed": 2472
+        },
+        {
+          "name": "Marino",
+          "streamCount": 13,
+          "secondsPlayed": 1507
+        },
+        {
+          "name": "SadBoyProlific",
+          "streamCount": 15,
+          "secondsPlayed": 1970
+        },
+        {
+          "name": "Alec Benjamin",
+          "streamCount": 10,
+          "secondsPlayed": 1591
+        },
+        {
+          "name": "Vorsa",
+          "streamCount": 9,
+          "secondsPlayed": 1452
+        },
+        {
+          "name": "Chandler Leighton",
+          "streamCount": 7,
+          "secondsPlayed": 1087
+        },
+        {
+          "name": "Isabel LaRosa",
+          "streamCount": 6,
+          "secondsPlayed": 785
+        }
+      ],
+      "topGenres": [
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "date": "2025-11-16",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "John Michael Howell",
+        "dayStreaks": 6
+      }
+    },
+    {
+      "date": "2025-11-09",
+      "highlightType": "ON_REPEAT",
+      "onRepeatHighlight": {
+        "entity": "Worst Enemy",
+        "streamCount": 7
+      }
+    },
+    {
+      "date": "2025-11-02",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Khantrast",
+        "dayStreaks": 6
+      }
+    },
+    {
+      "date": "2025-10-26",
+      "highlightType": "UNLIKE_COMBINATION",
+      "unlikeCombinationHighlight": {
+        "firstEntity": "Job Application",
+        "secondEntity": "Die 4 U"
+      }
+    },
+    {
+      "date": "2025-10-19",
+      "highlightType": "MILESTONE",
+      "multiEntityMilestoneHighlight": {
+        "entities": [
+          "Artemas",
+          "Halsey",
+          "Cavetown",
+          "i love you regardless",
+          "touchin’ me",
+          "Colours Fading",
+          "Villains Aren't Born (They're Made)",
+          "Him & I (with Halsey)",
+          "dying on the inside"
+        ],
+        "milestoneListeningSeconds": 164848
+      }
+    },
+    {
+      "date": "2025-10-12",
+      "highlightType": "ON_REPEAT",
+      "onRepeatHighlight": {
+        "entity": "BEG!",
+        "streamCount": 36
+      }
+    },
+    {
+      "date": "2025-10-05",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Halsey",
+        "dayStreaks": 7
+      }
+    },
+    {
+      "date": "2025-09-28",
+      "highlightType": "STREAKS",
+      "streaksHighlight": {
+        "entity": "Alec Benjamin",
+        "dayStreaks": 7
+      }
+    },
+    {
+      "date": "2025-09-21",
+      "highlightType": "ON_REPEAT",
+      "onRepeatHighlight": {
+        "entity": "Home",
+        "streamCount": 14
+      }
+    }
+  ]
+}
