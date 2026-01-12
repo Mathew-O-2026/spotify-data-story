@@ -63,7 +63,10 @@ Promise.all([
       yearData[year].artistPlayTime[artist] = (yearData[year].artistPlayTime[artist] || 0) + ms;
     }
     if (song) {
-      yearData[year].songPlayTime[song] = (yearData[year].songPlayTime[song] || 0) + ms;
+      if (!yearData[year].songPlayTime[song]) {
+        yearData[year].songPlayTime[song] = { ms: 0, uri: entry.spotify_track_uri };
+      }
+      yearData[year].songPlayTime[song].ms += ms;
     }
   });
 
@@ -102,7 +105,7 @@ Promise.all([
 
     // Top 10 songs for the year
     const sortedSongsYear = Object.entries(yearData[year].songPlayTime)
-      .map(([song, ms]) => ({ song, minutes: Math.round(ms / 60000) }))
+      .map(([song, obj]) => ({ song, minutes: Math.round(obj.ms / 60000), uri: obj.uri }))
       .sort((a, b) => b.minutes - a.minutes)
       .slice(0, 10);
 
@@ -123,6 +126,16 @@ Promise.all([
         }]
       },
       options: {
+        onClick: function(event, elements) {
+          if (elements.length > 0) {
+            const index = elements[0].index;
+            const uri = sortedSongsYear[index].uri;
+            if (uri) {
+              const trackId = uri.split(':')[2];
+              window.open(`https://open.spotify.com/track/${trackId}`, '_blank');
+            }
+          }
+        },
         responsive: true,
         scales: {
           y: {
