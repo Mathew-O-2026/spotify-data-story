@@ -94,7 +94,7 @@ Promise.all([
         }]
       },
       options: {
-        responsive: true,
+        responsive: falsse,
         scales: {
           y: {
             beginAtZero: true
