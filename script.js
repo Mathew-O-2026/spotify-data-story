@@ -127,12 +127,17 @@ Promise.all([
       },
       options: {
         onClick: function(event, elements) {
+          console.log('Click detected', elements);
           if (elements.length > 0) {
             const index = elements[0].index;
             const uri = sortedSongsYear[index].uri;
+            const song = sortedSongsYear[index].song;
+            console.log('Song:', song, 'URI:', uri);
             if (uri) {
               const trackId = uri.split(':')[2];
               window.open(`https://open.spotify.com/track/${trackId}`, '_blank');
+            } else {
+              window.open(`https://open.spotify.com/search/${encodeURIComponent(song)}`, '_blank');
             }
           }
         },
