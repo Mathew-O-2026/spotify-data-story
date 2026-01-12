@@ -54,10 +54,11 @@ Promise.all([
   combinedData.forEach(entry => {
     const year = new Date(entry.ts).getFullYear();
     if (!yearData[year]) {
-      yearData[year] = { artistPlayTime: {}, songPlayTime: {} };
+      yearData[year] = { artistPlayTime: {}, songPlayTime: {}, genrePlayTime: {} };
     }
     const artist = entry.master_metadata_album_artist_name;
     const song = entry.master_metadata_track_name;
+    const genre = entry.genre || 'Unknown'; // Assuming 'genre' field exists; otherwise 'Unknown'
     const ms = entry.ms_played || 0;
     if (artist) {
       yearData[year].artistPlayTime[artist] = (yearData[year].artistPlayTime[artist] || 0) + ms;
@@ -67,6 +68,9 @@ Promise.all([
         yearData[year].songPlayTime[song] = { ms: 0, uri: entry.spotify_track_uri };
       }
       yearData[year].songPlayTime[song].ms += ms;
+    }
+    if (genre) {
+      yearData[year].genrePlayTime[genre] = (yearData[year].genrePlayTime[genre] || 0) + ms;
     }
   });
 
@@ -141,6 +145,38 @@ Promise.all([
             }
           }
         },
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+
+    // Top 5 genres for the year
+    const sortedGenresYear = Object.entries(yearData[year].genrePlayTime)
+      .map(([genre, ms]) => ({ genre, minutes: Math.round(ms / 60000) }))
+      .sort((a, b) => b.minutes - a.minutes)
+      .slice(0, 5);
+
+    const labelsGenreYear = sortedGenresYear.map(item => item.genre);
+    const dataGenreYear = sortedGenresYear.map(item => item.minutes);
+
+    const ctxGenreYear = document.getElementById(`genreChart${year}`).getContext('2d');
+    new Chart(ctxGenreYear, {
+      type: 'bar',
+      data: {
+        labels: labelsGenreYear,
+        datasets: [{
+          label: `Listening Time (minutes) - ${year}`,
+          data: dataGenreYear,
+          backgroundColor: 'rgba(138, 43, 226, 0.6)', // Purple for genres
+          borderColor: 'rgba(138, 43, 226, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
         responsive: true,
         scales: {
           y: {
